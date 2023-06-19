@@ -4,10 +4,10 @@
   <img src="https://img.shields.io/badge/python-153500?style=flat-square&logo=python">
  </a>
 <a href="https://pytorch.org/">
-  <img src="https://img.shields.io/badge/pytorch-006400?style=flat-square&logo=pytorch">
+  <img src="https://img.shields.io/badge/pytorch-bbc?style=flat-square&logo=pytorch">
  </a>
 <a href="https://www.jetbrains.com/pycharm/">
-  <img src="https://img.shields.io/badge/Pycharm-black?style=flat-square&logo=pycharm">
+  <img src="https://img.shields.io/badge/Pycharm-006400?style=flat-square&logo=pycharm">
  </a>
 <a href="https://trimsh.org/">
   <img src="https://img.shields.io/badge/trimesh-blue?logo=t&logoColor=white">
