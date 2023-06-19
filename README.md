@@ -1,4 +1,4 @@
-<div align="center" ><img src="https://github.com/Zhangxx-NaMuu/Zhangxx-NaMuu/blob/main/img/45360770.jpg"></div>
+
 <p align="center">
    <a href="https://trimsh.org/">
   <img src="https://img.shields.io/badge/trimesh-blue?logo=t&logoColor=white">
