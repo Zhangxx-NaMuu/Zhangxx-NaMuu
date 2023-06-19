@@ -1,4 +1,4 @@
-<div align="center" ><img style="width:250px; height:250px; border-radius:100%;" src="https://github.com/sindre97/sindre97/blob/main/img/dental-zahnschema-FDI.jpg"></div>
+<div align="center" ><img src="https://github.com/sindre97/sindre97/blob/main/img/dental-zahnschema-FDI.jpg"></div>
 <p align="center">
    <a href="https://trimsh.org/">
   <img src="https://img.shields.io/badge/trimesh-blue?logo=t&logoColor=white">
