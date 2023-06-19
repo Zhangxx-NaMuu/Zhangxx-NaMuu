@@ -1,4 +1,4 @@
-<div align="center" ><img style="width:350px; height:250px;" src="https://github.com/Zhangxx-NaMuu/Zhangxx-NaMuu/blob/main/img/girls.jpg"></div>
+[comment]: <> (<div align="center" ><img style="width:350px; height:250px;" src="https://github.com/Zhangxx-NaMuu/Zhangxx-NaMuu/blob/main/img/girls.jpg"></div>)
 <p align="center">
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/python-153500?style=flat-square&logo=python">
